@@ -1,5 +1,11 @@
-<style> 
+body {
+    backgrund: #cccccc
+}
+
 p {
-   text.aligni: center
-  }
-  <\style>
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}   
